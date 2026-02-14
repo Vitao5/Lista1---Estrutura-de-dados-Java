@@ -1,3 +1,4 @@
+```text
 # Lista 1 – Estrutura de Dados em Java
 
 Este repositório contém a **Lista 1 de exercícios da disciplina de Estrutura de Dados**, desenvolvida em **Java**.  
@@ -33,7 +34,7 @@ Os exercícios abordam conceitos fundamentais da programação em Java, como:
 
 ## 📁 Estrutura do Projeto
 
-```text
+
 Lista1---Estrutura-de-dados-Java
 ├── src
 │   ├── Ex1.java
