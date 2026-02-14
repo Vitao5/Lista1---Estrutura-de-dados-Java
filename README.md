@@ -1,4 +1,4 @@
-```text
+
 # Lista 1 – Estrutura de Dados em Java
 
 Este repositório contém a **Lista 1 de exercícios da disciplina de Estrutura de Dados**, desenvolvida em **Java**.  
