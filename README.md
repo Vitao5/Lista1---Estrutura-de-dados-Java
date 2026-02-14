@@ -50,9 +50,9 @@ O projeto inclui:
 ## 🧩 Estrutura de Pastas
 
 ├── src/
-│ ├── Exercicio01.java
-│ ├── Exercicio02.java
-│ └── Exercicio03.java
+│ ├── Ex1
+│ ├── Ex2
+│ └── Ex3
 ├── .gitignore
 └── README.md
 ```
@@ -65,8 +65,8 @@ Antes de compilar/rodar, você precisa ter:
 - Uma IDE ou editor de código (IntelliJ, Eclipse, VS Code)
 
 ## 💻 Executar o exercício
-- java -cp src Exercicio01
-- java -cp src Exercicio02
-- java -cp src Exercicio03
+- java -cp src Ex1
+- java -cp src Ex2
+- java -cp src Ex3
 
 
