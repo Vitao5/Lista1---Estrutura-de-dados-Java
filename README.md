@@ -32,19 +32,6 @@ Os exercícios abordam conceitos fundamentais da programação em Java, como:
 
 ---
 
-## 📁 Estrutura do Projeto
-
-
-Lista1---Estrutura-de-dados-Java
-├── src
-│   ├── Ex1.java
-│   ├── Ex2.java
-│   ├── Ex3.java
-│   └── ...
-├── .gitignore
-└── README.md
-## ⚙️ Requisitos
-
 ## 🚀 Recursos Implementados
 
 O projeto inclui:
@@ -59,7 +46,7 @@ O projeto inclui:
   - Métodos auxiliares para organização lógica do código.
 
 ---
-
+```text
 ## 🧩 Estrutura de Pastas
 
 ├── src/
@@ -68,6 +55,7 @@ O projeto inclui:
 │ └── Exercicio03.java
 ├── .gitignore
 └── README.md
+```
 
 ## 🛠️ Pré-requisitos
 
