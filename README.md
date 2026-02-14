@@ -44,15 +44,40 @@ Lista1---Estrutura-de-dados-Java
 └── README.md
 ## ⚙️ Requisitos
 
-Para executar o projeto, é necessário ter instalado:
+## 🚀 Recursos Implementados
 
-- **Java JDK** (versão 11 ou superior)
-- **Git** (opcional, para clonar o repositório)
-- Uma IDE Java, como:
-  - IntelliJ IDEA
-  - Eclipse
-  - VS Code com extensão Java
+O projeto inclui:
+
+- Código **Java puro** (sem frameworks).
+- Estrutura típica de disciplina: cada exercício em sua classe própria.
+- Uso de:
+  - `Scanner` para leitura de entrada;
+  - Estruturas de repetição (`for`, `while`);
+  - Condicionais (`if/else`);
+  - Manipulação de arrays e coleções Java (`ArrayList`, se necessário);
+  - Métodos auxiliares para organização lógica do código.
 
 ---
 
-## ▶️ Como Executar o Projeto
+## 🧩 Estrutura de Pastas
+
+├── src/
+│ ├── Exercicio01.java
+│ ├── Exercicio02.java
+│ └── Exercicio03.java
+├── .gitignore
+└── README.md
+
+## 🛠️ Pré-requisitos
+
+Antes de compilar/rodar, você precisa ter:
+
+- **Java JDK 11+** instalado
+- Uma IDE ou editor de código (IntelliJ, Eclipse, VS Code)
+
+## 💻 Executar o exercício
+- java -cp src Exercicio01
+- java -cp src Exercicio02
+- java -cp src Exercicio03
+
+
